@@ -1,4 +1,4 @@
-# Hello! My name is <name>
+# Hello! My name is Mohamad
 
 This is my journal-playground where I want to keep track of today´s class.
 
@@ -30,7 +30,7 @@ like -> [X]
   - [ ] and copy the file `PARTNER_2.md` inside the Partner2 folder
   - [ ] Download a photo of your favourite animal and copy it inside the folder.
   
-- [ ] Search globally for `<name>` words and replace them with your name
+- [ ] Search globally for `Mohamad` words and replace them with your name
 - [ ] (Optional) In books you have a pdf -> look for an extension that allows you to see this file and install it in this folder or through the extensions :) maybe you need to reload your VSCode
 ## Let's add the changes
 - [ ] `git status`
